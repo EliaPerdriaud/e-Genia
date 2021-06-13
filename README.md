@@ -4,6 +4,7 @@ Logiciel de caisse
 
 <h2> Développeurs du projet </h2>
 <ul>
+<li> Néo AGNESINA </li>
 <li>Elia PERDRIAUD</li>
 <li>Etienne BRUNEL</li>
 <li>Alex CATHELAIN</li>
